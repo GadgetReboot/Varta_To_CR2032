@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM66100
+D Ideal diode controller, 9-80V operation, DFN-6 package
+K ideal-diode or-ing
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf
+$ENDCMP
+#
+#End Doc Library

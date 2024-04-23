@@ -1,0 +1,9 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J2","Conn_01x01","PinHeader_1x01_P2.54mm_Vertical",20.066000,4.900000,0.000000,bottom
+"J3","Conn_01x01","PinHeader_1x01_P2.54mm_Vertical",1.270000,4.900000,0.000000,bottom
+"R2","DNI","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",10.788000,7.482000,180.000000,bottom
+"C1","1uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",5.402000,7.699000,180.000000,top
+"D1","1N5711","D_SOD-123",15.963000,7.555000,180.000000,top
+"J1","S8401-46","S8401-46",10.730000,3.250000,180.000000,top
+"R1","220r","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",19.348000,2.718000,180.000000,top
+"U1","LM66100","SOT-363_SC-70-6_Handsoldering",10.771000,7.498000,0.000000,top
